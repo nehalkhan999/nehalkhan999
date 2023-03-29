@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NEHAL KHAN</h1>
 <h3 align="center">A passionate frontend developer from India (Jhaarkhand).</h3>
-<img src="https://st4.depositphotos.com/12981370/24312/i/1600/depositphotos_243120806-stock-photo-programmer-working-software-development-" alt="" width="400px" align="right">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs05oNJ_t5Xpjx-75KjOTe7M-1sBdwrEUA5w&usqp=CAU" alt="" width="400px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehalkhan999&label=Profile%20views&color=0e75b6&style=flat" alt="nehalkhan999" /> </p>
 
